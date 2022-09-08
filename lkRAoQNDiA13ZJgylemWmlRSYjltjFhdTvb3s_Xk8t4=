@@ -1,0 +1,26 @@
+[Public_key]
+    Value = "lkRAoQNDiA13ZJgylemWmlRSYjltjFhdTvb3s_Xk8t4="
+    Verified_by = "Signature of random challenge"
+    Last_verification_date = "2022/09/08"
+    Creation_date = "2022/09/08"
+    Active = True
+    
+[Name]
+    Value = "Test2"
+    Verified_by = "Institutional email"
+    Last_verification_date = "2022/09/08"
+    
+[Location]
+    Value = "New York, United States"
+    Verified_by = "Institutional email"
+    Last_verification_date = "2022/09/08"
+    
+[Affiliation]
+    Value = "Mainsail Organization"
+    Verified_by = "Institutional email"
+    Last_verification_date = "2022/09/08"
+    
+[Help]
+    Value = "Find out more about digital signatures and this file format at https://mainsailnetwork.org"
+    Verified_by = ""
+    Last_verification_date = "2022/09/08"
