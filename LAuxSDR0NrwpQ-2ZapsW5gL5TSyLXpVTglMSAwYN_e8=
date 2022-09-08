@@ -3,7 +3,7 @@
     Verified_by = "Signature of random challenge"
     Last_verification_date = "2022/09/08"
     Creation_date = "2022/09/08"
-    Active = True
+    Active = true
     
 [Name]
     Value = "Test1"
